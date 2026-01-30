@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-import numpy as np//importing numpy
+import numpy as np //importing numpy
 import random
 import json
 import time
