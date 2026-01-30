@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-import numpy as np
+import numpy as np//importing numpy
 import random
 import json
 import time
@@ -21,7 +21,7 @@ class BlockShape(Enum):
     CIRCLE = 1
     TRIANGLE = 2
 
-class Block:
+class Block: //defining block class
     def __init__(self, x, y, width=80, height=80, shape=BlockShape.RECTANGLE):
         self.x = x
         self.y = y
