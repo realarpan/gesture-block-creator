@@ -173,4 +173,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ using Python, OpenCV, and MediaPipe
+Made with ❤️ by Arpan. using Python, OpenCV, and MediaPipe
