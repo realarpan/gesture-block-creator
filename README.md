@@ -1,4 +1,4 @@
-# Gesture Block Creator 🎯
+# Gesture Block Creator
 
 A real-time hand gesture-based system using OpenCV and MediaPipe that allows you to create, select, move, and delete virtual blocks in 2D space through intuitive hand gestures.
 
