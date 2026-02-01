@@ -6,7 +6,7 @@ A real-time hand gesture-based system using OpenCV and MediaPipe that allows you
 
 - **You can Create Blocks**: Use an open palm gesture to spawn colorful blocks
 - **To Select Blocks**: Pinch gesture to select blocks
-- **Move Blocks**: Maintain pinch and move your hand to drag blocks around
+- **To Move Blocks**: Maintain pinch and move your hand to drag blocks around
 - **Delete Blocks**: Make a fist over a block to delete it
 - **Real-time Hand Tracking**: Uses MediaPipe for accurate hand landmark detection
 - **Visual Feedback**: Clear UI showing current mode and block count
